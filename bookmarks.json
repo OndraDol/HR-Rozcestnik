@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Vacancies",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/DMS/HR/_layouts/15/Doc.aspx?sourcedoc=%7B17CBB73B-3661-4AF3-84BC-0CDDA88C2BA1%7D&file=VAC_actual1.xlsx&action=default&mobileredirect=true",
+    "type": "excel"
+  },
+  {
+    "name": "Docházka & Dovolená",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/DMS/HR/_layouts/15/Doc.aspx?sourcedoc=%7BD150E2BC-5502-4264-A915-D1889CF431E6%7D&file=DOVOLEN%C3%81%202025.xlsx&action=default&mobileredirect=true",
+    "type": "excel"
+  },
+  {
+    "name": "HR Roster",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/HRteam/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B962a9320-2866-4710-8514-a02c28056ed4%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1749327857688&web=1",
+    "type": "sharepoint"
+  },
+  {
+    "name": "Exit Protokol",
+    "url": "https://intranet.aaa.cz/app/HR/ExitProcess/SitePages/HomePage.aspx",
+    "type": "sharepoint"
+  },
+  {
+    "name": "Home Office",
+    "url": "https://aaaautoeu.sharepoint.com/sites/HRAPP/HO/SitePages/UserPage.aspx",
+    "type": "sharepoint"
+  },
+  {
+    "name": "Salary Overview",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/DMS/HR/_layouts/15/Doc.aspx?sourcedoc=%7B336EE938-4B3B-4D17-85D8-6D4CEF59348D%7D&file=Salary%20Overview_CZ.xlsx&action=default&mobileredirect=true",
+    "type": "excel"
+  },
+  {
+    "name": "Sales Trainee",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/DMS/HR/_layouts/15/Doc.aspx?sourcedoc=%7BA01FA8B5-626E-41E7-B30D-7A2B39DD189A%7D&file=CZ_Sales%20%20trainee.xlsx&action=default&mobileredirect=true",
+    "type": "excel"
+  },
+  {
+    "name": "FnI Trainee",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/DMS/HR/_layouts/15/Doc.aspx?sourcedoc=%7B3865D3BF-0CDB-4B96-8FFE-29D8E011A347%7D&file=CZ_FBI%20%20trainee.xlsx&action=default&mobileredirect=true",
+    "type": "excel"
+  },
+  {
+    "name": "Buying Trainee",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/DMS/HR/_layouts/15/Doc.aspx?sourcedoc=%7B70B32AB2-8630-40D9-82A4-92E85F9002FA%7D&file=buying.xlsx&action=default&mobileredirect=true",
+    "type": "excel"
+  },
+  {
+    "name": "Pojištění odpovědnosti",
+    "url": "https://aaaautoeu.sharepoint.com/:x:/r/sites/Pojitn/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B3612737e-f430-4d63-9c72-ff43464e2538%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1737703857467&web=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDEyMDEwMDIyMSJ9",
+    "type": "sharepoint"
+  }
+]
