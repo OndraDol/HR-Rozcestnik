@@ -32,7 +32,7 @@ ICON_SIZE = 18
 POPUP_WIDTH = 260
 ITEM_HEIGHT = 28
 MAX_ITEMS = 12
-BOOKMARK_FILE = Path(__file__).with_name("bookmarks.json")
+BOOKMARK_FILE = Path(sys.argv[0]).with_name("bookmarks.json")
 DEFAULT_BOOKMARKS = [
     {"name": "Vacancies", "url": "https://aaaautoeu.sharepoint.com/...", "type": "excel"},
     {"name": "Docházka",  "url": "https://aaaautoeu.sharepoint.com/...", "type": "excel"},
